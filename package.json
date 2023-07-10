@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "concurrently": "^8.2.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "gzip": "^0.1.0",
+    "mongoose": "^7.3.2",
+    "morgan": "^1.10.0",
+    "node-sass": "^9.0.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^8.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.1",
+    "uuid": "^9.0.0"
+  },
+  "scripts":{
+    "dev": "concurrently -n Server,React -c green,cyan \"nodemon server\" \"cd client && yarn start\""
+  }
+}

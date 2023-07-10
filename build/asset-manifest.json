@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b531519d.css",
+    "main.js": "/static/js/main.b28ac35a.js",
+    "static/media/AOTPoster.png": "/static/media/AOTPoster.23c2b1d10807a1bab17d.png",
+    "static/media/AvengersPoster.png": "/static/media/AvengersPoster.8bbe00d5a22305705f00.png",
+    "static/media/StrangerThingsPoster.png": "/static/media/StrangerThingsPoster.29072d75c4f94c87dc01.png",
+    "static/media/LuciferPoster.png": "/static/media/LuciferPoster.5cc785f8c6b073a4c807.png",
+    "static/media/LuciferPosterPotrait.png": "/static/media/LuciferPosterPotrait.faee6d299b70049afbdf.png",
+    "static/media/Exo2-Regular.ttf": "/static/media/Exo2-Regular.921b36cd3c7621bd283b.ttf",
+    "static/media/Jura-Regular.ttf": "/static/media/Jura-Regular.431603099853951680f2.ttf",
+    "index.html": "/index.html",
+    "main.b531519d.css.map": "/static/css/main.b531519d.css.map",
+    "main.b28ac35a.js.map": "/static/js/main.b28ac35a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b531519d.css",
+    "static/js/main.b28ac35a.js"
+  ]
+}
